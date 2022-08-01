@@ -12,9 +12,9 @@ function App() {
         <Navbar />
         <div className="pages">
           <Routes>
-            <Route 
+            <Route
               path="/" 
-              element={<Home />} 
+              element={<Home />}
             />
           </Routes>
         </div>
